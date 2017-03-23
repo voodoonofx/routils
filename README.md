@@ -25,3 +25,8 @@ silence_error()
 routils.redirect.stdout('F:\\ro.stdout.txt')
 routils.redirect.stderr('F:\\ro.stderr.txt')
 ```
+
+You can optionally force the utility to clear and reopen sys.stdout. This clears the current output and opens a new file.
+```
+routils.redirect.stdout('F:\\ro.stdout.txt', force=True)
+routils.redirect.stderr('F:\\ro.stderr.txt', force=True)
