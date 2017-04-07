@@ -1,7 +1,7 @@
 # routils
 
 A collection of helper functions to manipulate in-game functions for Revelation Online.
-See the forums at http://forums.roplus.io for addional info. More features will be added as I need them, or they are requested.
+See the forums at https://www.roplus.io/ for addional info. More features will be added as I need them, or they are requested.
 
 ## Installation
 Just place the `routils` folder into your `ROPlus\Scripts` directory
